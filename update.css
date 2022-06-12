@@ -1,0 +1,37 @@
+#name2{
+    margin-top: 60px;
+        color: #000000; 
+}
+#name3{
+    margin-top: 10px;
+        color: #a3a0a0;
+   
+}
+#name4{
+    margin-top: 60px;
+        color: #000000; 
+}
+#name5{
+    margin-top: 10px;
+        color: #a3a0a0;
+   
+}
+
+#name3 input, #name5 input{
+    width: 300px;
+    height: 30px;
+}
+#name6{
+    margin-top: 60px;
+        color: #000000; 
+}
+#name7{
+    margin-top: 10px;
+        color: #a3a0a0;
+   
+}
+
+textarea{
+    width: 300px;
+    height: 90px;
+}
